@@ -2,32 +2,32 @@
     "schedules": [
       {
         "hour": 13,
-        "minute": 00,
+        "minute": 20,
         "isOn": true
       },
       {
         "hour": 13,
-        "minute": 01,
+        "minute": 21,
         "isOn": false
       },
       {
         "hour": 13,
-        "minute": 02,
+        "minute": 22,
         "isOn": true
       },
       {
         "hour": 13,
-        "minute": 4,
+        "minute": 23,
         "isOn": true
       },
       {
         "hour": 13,
-        "minute": 5,
+        "minute": 24,
         "isOn": false
       },
       {
         "hour": 13,
-        "minute": 6,
+        "minute": 25,
         "isOn": true
       }
     ]
