@@ -1,18 +1,33 @@
 {
     "schedules": [
       {
-        "hour": 11,
-        "minute": 33,
+        "hour": 12,
+        "minute": 17,
         "isOn": true
       },
       {
-        "hour": 11,
-        "minute": 34,
+        "hour": 12,
+        "minute": 18,
         "isOn": false
       },
       {
-        "hour": 11,
-        "minute": 35,
+        "hour": 12,
+        "minute": 19,
+        "isOn": true
+      },
+      {
+        "hour": 12,
+        "minute": 20,
+        "isOn": true
+      },
+      {
+        "hour": 12,
+        "minute": 21,
+        "isOn": false
+      },
+      {
+        "hour": 12,
+        "minute": 22,
         "isOn": true
       }
     ]
