@@ -17,17 +17,17 @@
       },
       {
         "hour": 13,
-        "minute": 04,
+        "minute": 4,
         "isOn": true
       },
       {
         "hour": 13,
-        "minute": 05,
+        "minute": 5,
         "isOn": false
       },
       {
         "hour": 13,
-        "minute": 06,
+        "minute": 6,
         "isOn": true
       }
     ]
