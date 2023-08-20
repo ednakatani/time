@@ -1,33 +1,33 @@
 {
     "schedules": [
       {
-        "hour": 12,
-        "minute": 17,
+        "hour": 13,
+        "minute": 00,
         "isOn": true
       },
       {
-        "hour": 12,
-        "minute": 18,
+        "hour": 13,
+        "minute": 01,
         "isOn": false
       },
       {
-        "hour": 12,
-        "minute": 19,
+        "hour": 13,
+        "minute": 02,
         "isOn": true
       },
       {
-        "hour": 12,
-        "minute": 20,
+        "hour": 13,
+        "minute": 04,
         "isOn": true
       },
       {
-        "hour": 12,
-        "minute": 21,
+        "hour": 13,
+        "minute": 05,
         "isOn": false
       },
       {
-        "hour": 12,
-        "minute": 22,
+        "hour": 13,
+        "minute": 06,
         "isOn": true
       }
     ]
